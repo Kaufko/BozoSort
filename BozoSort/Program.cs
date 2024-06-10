@@ -1,6 +1,4 @@
-﻿
-
-using Plotly.NET;
+﻿using Plotly.NET;
 
 Random random = new Random();
 
